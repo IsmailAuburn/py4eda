@@ -56,13 +56,3 @@ a) I should commit work that shows progress and learning, but I should not uploa
 b) A portfolio README should tell who I am, what this repo is for, and how it’s organized (`homework/`, `projects/`, `notes/`). That’s different from an open-source README, which is more about how to install/use the project.  
 c) Building the portfolio during the course creates a real history. The habits I should keep: commit often with good messages, organize folders, and push to GitHub regularly so the repo is always current.
 
-git add homework/hw3a-solution.md
-git commit -m "Add graduate questions"
-git push
-
-git add homework/hw3a-solution.md
-git commit -m "Add graduate questions"
-git push
-git add homework/hw3a-solution.md
-git commit -m "Add graduate questions"
-git push
